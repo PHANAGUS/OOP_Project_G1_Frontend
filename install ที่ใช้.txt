@@ -1,0 +1,4 @@
+npm install
+
+npm install @types/react-router-dom
+npm install react-router-dom
